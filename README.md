@@ -24,7 +24,7 @@ git clone https://github.com/nayandas69/VoiceSynth.git
 cd VoiceSynth
 ```
 
-### **2️⃣ Create & Activate Environment
+### **2️⃣ Create & Activate Environment**
 ```sh
 python3 -m venv .venv  # create environment
 source .venv/bin/activate  # activate environment
